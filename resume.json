@@ -1,0 +1,115 @@
+{
+  "data_lang": "ch-CN",
+  "ga_id": "UA-63818301-2",
+  "resume_title": "陈浩 - 个人简历",
+  "name": "陈浩",
+  "repo": "https://github.com/KID2/github.io-resume-",
+  "job_description": ["硬件工程师"],
+  "contact": {
+    "email": "ch28451446@outlook.com",
+    "wechat": {
+      "id": "cxz_926",
+      "qrcode": "static/wechat.svg"
+    },
+    "sinaweibo": {
+      "id": "KiddoCahen",
+      "url": "http://weibo.com/2930876843"
+    },
+    "github": {
+      "id": "KID2"
+    },
+    "links": [{
+    "type": "repo",
+    "url": "https://github.com/KID2/github.io-resume-"
+
+  }, {
+    "type": "pdf",
+    "url": "static/KiddoCahen.pdf"
+
+  }, {
+    "type": "zhihu",
+    "url": "http://www.zhihu.com/people/KID/"
+  }],
+  "education": [{
+    "type": "undergraduate",
+    "name": "湖南科技大学",
+    "major": "通信工程",
+    "start": "2012",
+    "end": "2016",
+    "honor": [
+      "2013湖南省首届青年文化艺术节书法比赛软笔类银奖“
+      "2012 - 2013 学年度校**新生特长赛之书画赛软笔组二等奖**",
+      "2013 - 2014 学年度校**入党积极分子优秀学员**",
+      "2014 - 2015 学年度校**SYB创业培训班优秀学员**",
+      "2014 - 2015 学年度校**学习优秀奖**
+      ]
+  }],
+  "language": [{
+    "type": "english",
+    "certificate": [{
+      "type": "CET-4",
+      "full": "710",
+      "score": "490"
+    }, {
+      "type": "CET-6",
+      "full": "710",
+      "score": "435"
+    }],
+    "description": [
+      "能流畅阅读英文专业书籍、文档及其他资料",
+      "可无字幕观看 MOOC 课程、开发者大会视频",
+      "能够在英文邮件列表、Stack Overflow 等社区正常交流"
+    ]
+  }],
+  "experience": [{
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "信息与电气工程学院",
+    "start": "2012.09",
+    "end": "至今",
+    "name": "通信工程专业",
+    "description": [
+      "认真学习本专业相关的基础课程和专业课程",
+      "大一至大二期间积极参加学校组织的各类大型活动并担任学生会宣传部干部，提升综合能力，丰富课余生活",
+      "大三开始更加专注于本专业课的学习，备战考研"
+    ],
+  }, {
+    "type": "internship",
+    "techtype": "frontend",
+    "place": "管理学院",
+    "start": "2012.09",
+    "end": "2014.01",
+    "name": "辅修企业管理专业",
+    "description": [
+      "利用期间所有的双休日时间参加校管理学院的企业管理学习",
+      "不再做一个天然呆自然萌，沉默寡言敲代码焊板子的理工生，积极参与课堂大讨论，感受思维碰撞火花的兴奋感，也能侃侃而谈",
+      "基于长远发展的考虑，顺应当今社会对复合型人才的急切需求，也是基于打小文理兼修的特质做出的做出的果断选择"
+    ],
+  }, {
+    "type": "internship",
+    "techtype": "nodejs",
+    "place": "院学生会宣传部",
+    "start": "2012.10",
+    "end": "2014.05",
+    "name": "学生会干部",
+    "description": [
+      "作为干事能利用自己的书画特长成为技术顶梁柱",
+      "团结宣传部的小伙伴们，既可以大家合作完成大项目，又可以一人独挑解燃眉之急",
+      "经常忙到凌晨一两点常有的事，但却依旧非常专注忘我，因为快乐而有成就感，为作为极少数看过各个不同时段的美丽校园而自豪",
+      "帮助老师完成许多力所能及的小事，学会许多为人处世的道理是人生财富"
+    ],
+  }, 
+   {
+    "type": "internship",
+    "techtype": "nodejs",
+    "place": "校就业服务部",
+    "start": "2014.03",
+    "end": "2014.04",
+    "name": "SYB创业培训课程",
+    "description": [
+      "演讲、公投、最高票当选培训班班长，一开始真感觉是个意外，但后来发现是大家对我的无条件支持和信任来为大家做好服务工作",
+      "每周都会抽出一个晚上来由一些优秀的企业家来给我们这个20人的小集体作创业分享，而我会在当天下午就赶去孵化基地做好准备",
+      "虽然是只有十几个夜晚的相处，但在这种活跃、主动、欢乐的氛围中大家建立了深厚的友谊，淡淡的微甜的",
+      "这就是缘分......"]
+  }]
+}
